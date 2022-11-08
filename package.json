@@ -1,0 +1,32 @@
+{
+  "name": "annotate-hook",
+  "version": "1.0.0",
+  "description": "react annotate hook, make annotation easier!",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telephant/annotate-hook.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "hook",
+    "annotate",
+    "annotation",
+    "ts"
+  ],
+  "author": "telephant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telephant/annotate-hook/issues"
+  },
+  "homepage": "https://github.com/telephant/annotate-hook#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^4.8.4"
+  }
+}
